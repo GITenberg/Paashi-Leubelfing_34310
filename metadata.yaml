@@ -8,7 +8,7 @@ contributor:
     - Suppanen, Adolf
     - Aatto S.
     birthdate: 1855
-    deathdate: &id001 1898
+    deathdate: 1898
     gutenberg_agent_id: '6674'
     url: http://www.gutenberg.org/2009/agents/6674
     wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
@@ -23,13 +23,15 @@ creator:
     - Meyer, Konrad Ferdinand
     - Meyer, C. F. (Conrad Ferdinand)
     birthdate: 1825
-    deathdate: *id001
+    deathdate: 1898
     gutenberg_agent_id: '1259'
     url: http://www.gutenberg.org/2009/agents/1259
     wikipedia:
     - http://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
     - http://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
 description: 'Translation of: Gustav Adolfs Page'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34310#Paashi-Leubelfing
 gutenberg_issued: '2010-11-14'
 gutenberg_type: Text
 identifiers:
